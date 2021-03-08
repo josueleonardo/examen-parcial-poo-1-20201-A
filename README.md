@@ -34,9 +34,10 @@ Las operaciones que los usuarios pueden realizar son:
 
 ## Instrucciones:
 1. Leer bien el requerimiento (arriba)
+1. Leer detenidamente las instrucciones completas **ANTES** de empezar a crear código
 1. Contestar preguntas en el archivo [questions.md](questions.md)
 1. Hacer que el main se ejecute correctamente implementando las clases mostradas en el siguiente diagrama ![diagrama](reseñas.png)
-  - IMPORTANTE: **No está permitido modificar el main** 
+   - IMPORTANTE: **No está permitido modificar el main** 
 1. Al ejecutar el programa la salida es:
 ```shell
 El señor de los anillos  - La comunidad del anillo - 2001
